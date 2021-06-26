@@ -1,3 +1,3 @@
 # LetMeAsk-Project
 Nlw 
-<img src="DzFabricio/src/assets/images/logo.svg" alt="Letmeasklogo" style="max-width:100%;">
+<img src="/src/assets/images/logo.svg" alt="Letmeasklogo" style="max-width:100%;">
