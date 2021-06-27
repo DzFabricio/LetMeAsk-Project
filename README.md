@@ -1,5 +1,4 @@
 # LetMeAsk-Project
-Nlw 
 <div align="center" > 
 <img src="/src/assets/images/logo.svg" alt="Letmeasklogo" style="max-width:100%;">
     
