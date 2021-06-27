@@ -4,8 +4,9 @@ Nlw
 <img src="/src/assets/images/logo.svg" alt="Letmeasklogo" style="max-width:100%;">
     
 </div>
-
-![Letmeask](.github/letmeaskhome.png)
+<div>
+<img src="/src/assets/images/nlw.gif" alt="screen-capture" style="max-width:100%;">
+</div>
 
 <p align="center">
   
