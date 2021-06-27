@@ -4,7 +4,7 @@
     
 </div>
 <div>
-<img src="/src/assets/images/nlw.gif" alt="screen-capture" style="max-width:100%;">
+<img src="/src/assets/images/123.png" alt="screen-capture" style="max-width:100%;">
 </div>
 
 <p align="center">
@@ -14,7 +14,7 @@
 
 Tecnologias usadas nas aulas para desenvolver o projeto:
 
-- [React](https://reactjs.org), - [TypeScript](https://www.typescriptlang.org/), - [Firebase](https://firebase.google.com/)
+- [React](https://reactjs.org) - [TypeScript](https://www.typescriptlang.org/) - [Firebase](https://firebase.google.com/)
 
 
 
